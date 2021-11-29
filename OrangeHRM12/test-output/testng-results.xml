@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-20T20:19:51 IST" name="Default suite" finished-at="2021-10-20T20:20:27 IST" duration-ms="36742">
+    <groups>
+    </groups>
+    <test started-at="2021-10-20T20:19:51 IST" name="Default test" finished-at="2021-10-20T20:20:27 IST" duration-ms="36742">
+      <class name="Day_005_TestNG_DataProvider_Lab1.OrangeHRM_DataProvider_Lab1">
+        <test-method signature="Test1(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Day_005_TestNG_DataProvider_Lab1.OrangeHRM_DataProvider_Lab1@72057ecf]" started-at="2021-10-20T20:19:51 IST" name="Test1" data-provider="Orange1" finished-at="2021-10-20T20:20:09 IST" duration-ms="18603" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://opensource-demo.orangehrmlive.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Indians127]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method signature="Test1(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Day_005_TestNG_DataProvider_Lab1.OrangeHRM_DataProvider_Lab1@72057ecf]" started-at="2021-10-20T20:20:09 IST" name="Test1" data-provider="Orange1" finished-at="2021-10-20T20:20:27 IST" duration-ms="18096" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://opensource-demo.orangehrmlive.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Indians128]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+      </class> <!-- Day_005_TestNG_DataProvider_Lab1.OrangeHRM_DataProvider_Lab1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
